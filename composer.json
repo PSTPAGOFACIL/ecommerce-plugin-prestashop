@@ -1,0 +1,13 @@
+{  
+    "require": {
+         "kdu/pagofacilcore": "dev-master"
+     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@ryu.kdu.cl:pagoFacil/pago-facil-core.git"
+        }
+    ]
+}
+    
+        
