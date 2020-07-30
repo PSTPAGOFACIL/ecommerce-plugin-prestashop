@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pagofacil17</name>
+    <displayName><![CDATA[Pago F&aacute;cil]]></displayName>
+    <version><![CDATA[1.1.0]]></version>
+    <description><![CDATA[ Venda con varios medios de pago instant&aacute;neamente con Pago F&aacute;cil.]]></description>
+    <author><![CDATA[Pago F&aacute;cil SPA]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Al desinstalar no podrá recibir pagos. Estas seguro?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries>CL</limited_countries>
+</module>
